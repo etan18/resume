@@ -1,112 +1,71 @@
 <link rel="stylesheet" type="text/css" href="resume.css">
 
-<span class="name">Teng-Jui Lin</span>
+<span class="name">Erin Tan</span>
 
 <span class="info">
 
-[![Mail](https://simpleicons.org/icons/minutemailer.svg) tlin10@uw.edu](mailto:tlin10@uw.edu)
-[![GitHub](https://simpleicons.org/icons/github.svg) github.com/tengjuilin](https://github.com/tengjuilin)
+[![Mail](https://simpleicons.org/icons/gmail.svg) tane@berkeley.edu](mailto:tane@berkeley.edu)
+[![LinkedIn](https://simpleicons.org/icons/linkedin.svg) linkedin.com/in/erin-a-tan/](https://www.linkedin.com/in/erin-a-tan/)
+[![GitHub](https://simpleicons.org/icons/github.svg) github.com/etan18](https://github.com/etan18)
 
 </span>
 
 ## Education
 
-### University of Washington | <location> Seattle, WA, USA </location> <time> Sep 2019 – Present </time>
+### University of California, Berkeley <time> Aug 2021 – May 2025 </time>
+<position> B.A. Computer Science, B.A. Cognitive Science | GPA: 3.83/4.00 </position> <location> Berkeley, CA </location>
 
-- B.S. in Chemical Engineering, Nanoscience and Molecular Engineering Option, with Departmental Honors
-- Minor in Applied Mathematics and Chemistry
-- GPA: 3.97 | Expected Graduation: June 2023
-- Mary Gates Research Scholarship | 2 Dan Evans Term Scholarships | C-HACK Team 1st, 3rd Places
+- **Relevant Coursework**: Algorithms, Machine Learning, Data Structures, Machine Structures, Artificial Intelligence, Probability Theory, Discrete Math, Operating Systems, Perception, Linguistics, Deep Learning for Computer Vision
+- **Teaching**: 20-hr Teaching Assistant (CS188 - Artificial Intelligence), Course Reader (CS189 - Machine Learning)  
+- **Activities**: Machine Learning at Berkeley (Internal VP), Data Science Society (Consulting Director), The Berkeley Project
 
-### Brown University | <location> Providence, RI, USA </location> <time> Jun 2018 – Aug 2018 </time>
+## Professional Experience
 
-- Pre-Baccalaureate Program: Neuroscience, Cell and Molecular Biology
+### Salesforce <time> May 2023 - Aug 2023 </time>
+<position> Software Engineer Intern </position> <location> San Francisco, CA </location>
 
-### Kinglee High School | <location> Zhengzhou, Henan, China </location> <time> Sep 2013 – Jun 2019 </time>
+- Full-stack development of Event Log Browser, an end-to-end pipeline to build and run SQL queries for parsing security logs
+- Fine-tuned OpenAI’s GPT-4 for recommendation of personalized security policies in Event Monitoring’s first LLM integration
+- Placed 2nd out of 60 internal teams worldwide in Gen AI for Trusted Services Hackathon, presenting to panel of execs
 
-- Discovery Fair 1st Place | Science Fair 1st, 2nd Places | 2 Peer Tutor Awards | Merit Student of Zhengzhou
+### Intuit <time> May 2022 – Aug 2022 </time>
+<position> Software Engineer Intern </position> <location> Mountain View, CA </location>
 
-## Relevant Experience
+- Leveraged BERT for token classification to automate parsing of key data from bank statements from 75,000+ unique banks
+  - Achieved 93% accuracy across target regions (North America, Canada, and the UK), capturing over 85% of use cases
+  - Released into production of QuickBooks Online in Fall 2022, impacting 190,000+ multicurrency companies worldwide
+- Frontend UI/UX work on new landing page for first-time users of the Rules feature using JavaScript, HTML, CSS, and React
 
-### Undergraduate Research Assistant <time> Nov 2020 – Present </time>
+### Workday <time> Jan 2023 – May 2023 </time>
+<position> Machine Learning Contractor </position> <location> San Francisco, CA </location>
 
-<location> Department of Chemical Engineering, University of Washington, PI: Elizabeth Nance </location>
+- Deployed autoencoder-based anomaly detection model to flag abnormal expenses, saving Workday over $300,000 annually
+- Built real-time financial analytics dashboard using Plotly Dash to show quarter-over-quarter trends across cost centers
 
-- Quantified microglia morphology of 3 datasets using image processing and machine learning methods
-- Developed Python API for data analysis for modular integration to fluorescent image analysis workflow
-- Scanned 102 murine breast cancer tissue slices using confocal microscope (24.5 hr) for collaborators
-- Surveyed literature regarding cell segmentation, morphological analysis, and image-based profiling
+## Research Experience
 
-### Summer Undergraduate Research Scholar <time> Jun 2022 - Aug 2022 </time>
+### Computational Healthcare for Equity and Inclusion Lab <time> Jan 2024 – Present </time>
+<position> Undergraduate Researcher </position> <location> Berkeley, CA </location>
 
-<location> STROBE NSF Science and Technology Center on Real-Time Functional Imaging <br/> Department of Physics, Florida International University, PI: Jin He </location>
+- Investigating causes of performance drops under distribution shifts in high-dimensional and multimodal settings, towards the deployment of generalizable and robust clinical decision models under principal investigator Irene Chen
+- Using neural ordinary differential equations (ODE) to develop a generalizable waveform approximator for clinical applications
 
-- Fabricated and functionalized gold nanorods for promoting maturation of engineered cardiac tissues
-- Characterized gold nanorods using UV-visible spectroscopy and Raman spectroscopy
-- Measured contractile force of cardiac tissues by analyzing brightfield microscopy video data with Python
-- Processed confocal microscopy images of T-tubular systems of cardiomyocytes with Python
+### Berkeley Artificial Intelligence Research (BAIR) Lab <time> Sep 2023 – Present </time>
+<position> Undergraduate Researcher </position><location> Berkeley, CA </location>
 
-### Calculus Teaching Assistant <time> Sep 2018 – May 2019 </time>
+- Automating assessment of speech disorders in Berkeley Speech Group, advised by Professor Gopala Anumanchipalli
+- Improving state-of-the-art rich speech transcription through phoneme-level alignment to allow for unconstrained dysfluency
+- LLM-based evaluation scheme generates low-latency diagnoses of various aphasia types from connected speech samples
 
-<location> Kinglee High School </location>
+### UC Berkeley High Performance Computing <time> Sep 2022 – Aug 2023 </time>
+<position> Part-Time Intern </position> <location> Berkeley, CA </location>
 
-- Gave AP Calculus AB lectures 4 hours weekly to 5 students in alignment with CollegeBoard curriculum
-- Clarified complex concepts and common confusions about calculus with classroom activities
-- Worked with supervisor to design and grade concept checks, homework, and quizzes with tight deadlines
+- Provided support to 500+ researchers on using UC Berkeley’s Savio supercomputer and other high-performance resources
+- Maintained hardware infrastructure and performed repairs on Savio, a 470-node, 11,620 processor core Linux cluster
+- Optimized the department’s consulting metrics workflow by creating a Tableau dashboard and accompanying visualizations
 
-## Other Experience
-
-### Webmaster <time> Apr 2022 – Present </time>
-
-<location> American Institute of Chemical Engineers (AIChE), University of Washington </location>
-
-- Managed and designed official website; monitored and updated social media accounts and email list
-- Coordinated with internal and external media efforts to ensure up-to-date online presence
-- Facilitated coordination of ChemE BBQ event and graduation ceremony
-
-### Secretary <time> May 2021 – Present </time>
-
-<location> Women in Chemical Engineering, University of Washington </location>
-
-- Kept transparent meeting records, managed member email list, and maintained student group registration
-- Composed biweekly newsletters to 400+ members to update events, resources, and diversity highlights
-- Facilitated coordination of Veteran's Day event, Wiki-edit-a-thon, and International Women's Day event
-
-### Research and Development Officer <time> Apr 2020 – Jun 2021 </time>
-
-<location> Chinese Students and Scholars Association, University of Washington </location>
-
-- Designed, crafted, and edited posters and videos for major events, such as Student Orientation Programs
-- Assisted in maintenance of official blog and website to provide resources based on students' need
-
-### Maple Hall Council SEED Representative <time> Oct 2019 – Mar 2020 </time>
-
-<location> Housing and Food Services, University of Washington </location>
-
-- Led committee meetings and planned campus-wide competition that raised waste sorting awareness
-- Attended weekly hall council and SEED meetings to liaise feedback and updates on activities and initiatives
-
-### Peer Tutor of Math, Science, and English <time> Sep 2016 – Jun 2019 </time>
-
-<location> Kinglee High School </location>
-
-- Taught active reading and note-taking strategies to English as a second language (ESL) students
-- Reviewed course notes, clarified complex concepts, and provided feedback for course assignments
-- Received 2 Peer Tutor Awards in recognition of outstanding contribution to the peer tutoring program
-
-### Student Council Historian and Secretary <time> Oct 2017 – Jun 2019 </time>
-
-<location> Kinglee High School </location>
-
-- Prepared, coordinated, and executed activities, including Halloween activities, Thanksgiving Bonfire Nights, Christmas celebrations, Spirit Weeks, and Academic Integrity Seminar
-- Drafted, edited, and updated activity proposals and meeting minutes for iterative improvement of execution
-- Raised 1000+ CNY funds and 200+ books for children in need with fundraising events
-
-### Lab Peer Supervisor <time> Mar 2017 – Mar 2019 </time>
-
-<location> Kinglee High School </location>
-
-- Supervised biology, chemistry, and physics lab practices of 9th-grade students for Zhongzhao Examination
-- Taught lab safety guidelines, standard lab procedures, and best practices, as well as ensured lab safety
+## Skills
+- **Languages**: Python, Java, C/C++, Golang, JavaScript/Typescript, HTML, CSS, SQL, Rust, Markdown, LaTeX, Chinese (fluent)
+- **Tools**: TensorFlow, PyTorch, Linux/Unix, OpenCV, Git, Pandas, NumPy, AWS, GCP, Azure, Keras, React, LangChain, Docker
 
 <!-- Detail checks: 1. No period for each bullet; 2. Past tense for previous work; 3. Present tense for current work; 4. Spell check passed; 5. Grammarly check passed; 6. Sync with Linkedin; 7. Check paper format -->
